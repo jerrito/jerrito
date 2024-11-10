@@ -2,8 +2,8 @@
  I am currently rebuilding vacanciesinghana app.
  I love working on mobile applications.
  I use Flutter for mobile development.
- I’m currently learning laravel with my experience in express
- I’m looking to collaborate on any mobile project
+ I’m currently learning laravel with my experience in express.
+ I’m looking to collaborate on any mobile project.
  I can be contacted on jerryboateng300@gmail.com
 
 <!--
