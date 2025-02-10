@@ -1,5 +1,5 @@
  Hi, I’m @jerrito.
- I am currently rebuilding vacanciesinghana app.
+ I am currently working on updates for vacanciesinghana app and shaqapp.
  I love working on mobile applications.
  I use Flutter for mobile development.
  I’m currently learning laravel with my experience in express.
