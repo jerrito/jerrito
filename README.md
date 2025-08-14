@@ -1,10 +1,10 @@
  Hi, I’m @jerrito.
- I am currently working on updates for vacanciesinghana app and shaqapp.
+ 🔭 I am currently working on new farmhouse movie version.
  I love working on mobile applications.
- I use Flutter for mobile development.
- I’m currently learning laravel with my experience in express.
- I’m looking to collaborate on any mobile project.
- I can be contacted on jerryboateng300@gmail.com
+ I use Flutter for mobile development and like team contribution.
+ 🌱 I’m currently learning laravel with my experience in express.
+ 👯 I’m looking to collaborate on any mobile and backend project.
+ 📫 I can be contacted on jerryboateng300@gmail.com and +233240845898
 
 <!--
 **jerrito/jerrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
